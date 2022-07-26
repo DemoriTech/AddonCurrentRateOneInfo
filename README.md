@@ -1,6 +1,6 @@
 ![alt text](https://github.com/DemoriTech/CurrentRateOne/blob/main/SAPB1.png?raw=true)
 
-# CurrentRateOne :hammer_and_wrench:
+# RateOne :hammer_and_wrench:
 Add-on para SAP Business One versões 9x,10x (SQL, HANA) que realiza a cotação das moedas de forma automatica. 
 Com um unico clique é possivel atualizar todas as cotações das moedas cadastrada no SAP de uma vez com a cotação do dia.
 
