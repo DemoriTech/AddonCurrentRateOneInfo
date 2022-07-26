@@ -7,7 +7,7 @@ Com um unico clique é possivel atualizar todas as cotações das moedas cadastr
 # Veja como é simples;
 Com o Add-on iniciado será disponibilizado um botão para atualizar as moedas na tela de "Taxas de Câmbios" do SAP;
 
-![image](![image](https://user-images.githubusercontent.com/55056309/131849332-73da3ad5-1fa3-4d6f-871e-7f339832b8c1.png)
+![image](https://user-images.githubusercontent.com/55056309/131849332-73da3ad5-1fa3-4d6f-871e-7f339832b8c1.png)
 
 Apos clicar em "Atualizar Taxas", as taxas do dia são atualizadas automaticamente. Com as cotações do dia disponiveis na internet;
 
