@@ -1,17 +1,71 @@
 
 # RateOne :hammer_and_wrench:
-Add-on para SAP Business One versões 9x,10x (SQL, HANA) que realiza a cotação das moedas de forma automatica. 
-Com um unico clique é possivel atualizar todas as cotações das moedas cadastrada no SAP de uma vez com a cotação do dia.
+Add-on para SAP Business One, responsavel por realizar as cotações das moedas de forma automatica e manual. Tenha as cotações atualizadas diariamente de forma simples e automática. 
 
-# Veja como é simples;
-Com o Add-on iniciado será disponibilizado um botão para atualizar as moedas na tela de "Taxas de Câmbios" do SAP;
+# Requisitos de sistema :cd:
+* Dot Net Framework 4.8;
+* SAP Business One DI-API x86 ou x64 instalada devidamente;
+* Client SAP Business One x86 ou x64 instalado;
+* Usuário para atualização com uma licença professional do SAP;
+* Aplicação roda em windows.
+* Banco de dados HANA
+* Banco de dados SQL
+
+# Veja como é simples :open_mouth: 
+
+# Atualização manual
+Com o Add-on iniciado será disponibilizado um botão para atualizar as moedas na tela de "Taxas de Câmbios" do SAP (SAP > Administração > Taxas de câmbio e índices)
+
 
 ![image](https://user-images.githubusercontent.com/55056309/131849332-73da3ad5-1fa3-4d6f-871e-7f339832b8c1.png)
 
-Apos clicar em "Atualizar Taxas", as taxas do dia são atualizadas automaticamente. Com as cotações do dia disponiveis na internet;
+Apos clicar em "Atualizar Moedas", o add-on busca sua moeda do sistema (SAP local) e ja converte todas as moedas adicionadas automaticamente para sua moeda do sistema com as cotações do dia. Para essa atualização manual não é necessario nenhuma configuração é simples e objetiva.
 
 ![image](https://user-images.githubusercontent.com/55056309/131850070-91d5028d-b2bf-448d-a437-f21b67b932e3.png)
 
+# Atualização Automática (Serviço)
+
+Será instalado o serviço de atualização automatica;
+![image](https://user-images.githubusercontent.com/55056309/181628825-ae6bcc42-8df6-4839-84a1-4b0d31999dfd.png)
+
+Apos instalar o serviço e o add-on já licenciado, voce deve configura-lo, para ser realizada a conexão com a DI-API do SAP. É simples, navegue até o menu "RateOne: Configurar Serviço" (SAP Business One> Administração > RateOne: Configurar Serviço)
+
+![image](https://user-images.githubusercontent.com/55056309/181626185-bbaa251f-72b9-4460-a74b-0c94c0376e56.png)
+
+Será aberta a tela de configuração do serviço, clique em "Conexão SAP" voce deve informar os dados do SAP para a conexão com a DI-API. Apos informar os dados clique no botão "Testar conexão", para testar não é preciso salvar os dados;
+
+![image](https://user-images.githubusercontent.com/55056309/181626622-5e5ac64a-037f-497c-a918-84a1206c40b7.png)
+
+Apos testar a conexão, em caso de sucesso será apresentada uma informação como abaixo, caso falhe sera apresentado o erro da conexão.
+
+![image](https://user-images.githubusercontent.com/55056309/181627569-863f6da2-e0ea-45b9-a9dc-39846bc68849.png)
+
+Na aba "Config. Rotina", voce vai configurar a rotina da execuação da atualização da cotação, aqui é possivel informar até 4 horarios diferentes (NOTA: uma vez atualizado não será permitido a atualizar novamente, limitação da DI-API do SAP.) informe a hora no padrão 24hs hh:mm e marque em qual dia da semana deseja atualizar.
+
+Em "Dias para executar", marque todas as opções da semana que deseja executar o serviço.
+![image](https://user-images.githubusercontent.com/55056309/181628609-25ebcb51-e3cd-4ecb-95ce-3fee61acbc4c.png)
+
+NOTA: A tela conta com o status do serviço para voce saber se o serviço está em execução ou parado.
+
+Apos concluir toda a configuração, clique em salvar. E atualização das moedas vão ocorrer forma automatica de acordo com a configuração de dia e hora realizada.
+
+# Atualização Automática (Serviço) logs
+O serviço conta com um sistema de logs, onde a cada atualização é gerado um registro com as informações sobre o evento no Visualizador de Eventos do Windows. Conforme o exemplo abaixo (Acesse o Visualizador de Eventos do Windos >  Logs do Windows > Aplicativo). Conforme o exemplo;
+
+![image](https://user-images.githubusercontent.com/55056309/181630790-43bc80df-c473-4865-b673-7e1f2a5a87e6.png)
+
+Erros também são expostos aqui;
+
+![image](https://user-images.githubusercontent.com/55056309/181631099-221288ba-4751-4d94-84fd-212ca730b696.png)
+
+
+
+
+# E quanto custa tudo isso? :moneybag:
+O add-on funciona de forma licenciada/mês, a licença é por maquina (PC - Computador) e CNPJ. Na licença já contempla o serviço (automático) e o add-on. Uma única licença já atende a necessidade de atualização das cotações manual e automática no SAP. Solicite um orçamento no contato abaixo;
+
+# Mais informações;
+Envie um email para contato@demoritech.com.br
 
 # Lista de moedas suportadas para conversão, mais de 150 tipos :rocket: 
 
@@ -631,8 +685,5 @@ Apos clicar em "Atualizar Taxas", as taxas do dia são atualizadas automaticamen
 * XAGG-EUR XPrata/Euro/XAGG-EUR 
 * PEN-EUR Sol do Peru/Euro/PEN-EUR 
 
-# Mais informações;
-Envie um email para daniel.demori@demoritech.com.br
-
 ---------------------------------------------------------------------------
-Todos os direitos reservados a DemoriTech 2021.
+Todos os direitos reservados a DemoriTech 2019.
