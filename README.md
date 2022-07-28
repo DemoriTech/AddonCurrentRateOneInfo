@@ -1,4 +1,3 @@
-![alt text](https://github.com/DemoriTech/CurrentRateOne/blob/main/SAPB1.png?raw=true)
 
 # RateOne :hammer_and_wrench:
 Add-on para SAP Business One versões 9x,10x (SQL, HANA) que realiza a cotação das moedas de forma automatica. 
