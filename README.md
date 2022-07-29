@@ -68,162 +68,156 @@ O add-on funciona de forma licenciada/mês, a licença é por maquina (PC - Comp
 Envie um email para contato@demoritech.com.br
 
 # Lista de moedas suportadas para conversão, mais de 150 tipos :rocket: 
-
-* <AFN>AFN - Afghani do Afeganistão</AFN> 
-* <MGA>MGA - Ariary Madagascarense</MGA>
-* <THB>THB - Baht Tailandês</THB>             
-* <PAB>PAB - Balboa Panamenho</PAB>
-* <ETB>ETB - Birr Etíope</ETB></a>
-* <BTC>BTC - Bitcoin</BTC></a>
-* <BOB>BOB - Boliviano</BOB></a>
-* <VEF>VEF - Bolívar Venezuelano</VEF></a>
-* <XBR>XBR - Brent Spot</XBR></a>
-* <GHS>GHS - Cedi Ganês</GHS></a>
-* <SVC>SVC - Colon de El Salvador</SVC></a>
-* <CRC>CRC - Colón Costarriquenho</CRC></a>
-* <CZK>CZK - Coroa Checa</CZK></a>
-* <DKK>DKK - Coroa Dinamarquesa</DKK></a>
-* <ISK>ISK - Coroa Islandesa</ISK></a>
-* <NOK>NOK - Coroa Norueguesa</NOK></a>
-* <SEK>SEK - Coroa Sueca</SEK></a>
-* <NIO>NIO - Córdoba Nicaraguense</NIO></a>
-* <SDR>SDR - DSE</SDR></a>
-* <GMD>GMD - Dalasi da Gâmbia</GMD>
-* <MKD>MKD - Denar Macedônio</MKD>
-* <DZD>DZD - Dinar Argelino</DZD>
-* <IQD>IQD - Dinar Iraquiano</IQD>
-* <JOD>JOD - Dinar Jordaniano</JOD>
-* <KWD>KWD - Dinar Kuwaitiano</KWD>
-* <LYD>LYD - Dinar Líbio</LYD>
-* <RSD>RSD - Dinar Sérvio</RSD>
-* <TND>TND - Dinar Tunisiano</TND>
-* <BHD>BHD - Dinar do Bahrein</BHD>
-* <MAD>MAD - Dirham Marroquino</MAD>
-* <AED>AED - Dirham dos Emirados</AED>
-* <STD>STD - Dobra São Tomé/Príncipe</STD>
-* <DOGE>DOGE - Dogecoin</DOGE>
-* <VND>VND - Dong Vietnamita</VND>
-* <AMD>AMD - Dram Armênio</AMD>
-* <USD>USD - Dólar Americano</USD>
-* <AUD>AUD - Dólar Australiano</AUD>
-* <CAD>CAD - Dólar Canadense</CAD>
-* <JMD>JMD - Dólar Jamaicano</JMD>
-* <NAD>NAD - Dólar Namíbio</NAD>
-* <NZD>NZD - Dólar Neozelandês</NZD>
-* <TWD>TWD - Dólar Taiuanês</TWD>
-* <ZWL>ZWL - Dólar Zimbabuense</ZWL>
-* <BSD>BSD - Dólar das Bahamas</BSD>
-* <KYD>KYD - Dólar das Ilhas Cayman</KYD>
-* <BBD>BBD - Dólar de Barbados</BBD>
-* <BZD>BZD - Dólar de Belize</BZD>
-* <BND>BND - Dólar de Brunei</BND>
-* <SGD>SGD - Dólar de Cingapura</SGD>
-* <FJD>FJD - Dólar de Fiji</FJD>
-* <HKD>HKD - Dólar de Hong Kong</HKD>
-* <TTD>TTD - Dólar de Trinidad</TTD>
-* <XCD>XCD - Dólar do Caribe Oriental</XCD>
-* <CVE>CVE - Escudo cabo-verdiano</CVE>
-* <ETH>ETH - Ethereum</ETH>
-* <EUR>EUR - Euro</EUR>
-* <HUF>HUF - Florim Húngaro</HUF>
-* <BIF>BIF - Franco Burundinense</BIF>
-* <XAF>XAF - Franco CFA Central</XAF>
-* <XOF>XOF - Franco CFA Ocidental</XOF>
-* <XPF>XPF - Franco CFP</XPF>
-* <KMF>KMF - Franco Comorense</KMF>
-* <RWF>RWF - Franco Ruandês</RWF>
-* <CHF>CHF - Franco Suíço</CHF>
-* <CHFRTS>CHFRTS - Franco Suíço</CHFRTS>
-* <GNF>GNF - Franco de Guiné</GNF>
-* <DJF>DJF - Franco do Djubouti</DJF>
-* <HTG>HTG - Gourde Haitiano</HTG>
-* <PYG>PYG - Guarani Paraguaio</PYG>
-* <ANG>ANG - Guilder das Antilhas</ANG>
-* <UAH>UAH - Hryvinia Ucraniana</UAH>
-* <JPY>JPY - Iene Japonês</JPY>
-* <JPYRTS>JPYRTS - Iene Japonês</JPYRTS>
-* <PGK>PGK - Kina Papua-Nova Guiné</PGK>
-* <LAK>LAK - Kip Laosiano</LAK>
-* <HRK>HRK - Kuna Croata</HRK>
-* <MWK>MWK - Kwacha Malauiana</MWK>
-* <ZMK>ZMK - Kwacha Zambiana</ZMK>
-* <AOA>AOA - Kwanza Angolano</AOA>
-* <MMK>MMK - Kyat de Mianmar</MMK>
-* <GEL>GEL - Lari Georgiano</GEL>
-* <ALL>ALL - Lek Albanês</ALL>
-* <HNL>HNL - Lempira Hondurenha</HNL>
-* <MDL>MDL - Leu Moldavo</MDL>
-* <RON>RON - Leu Romeno</RON>
-* <BGN>BGN - Lev Búlgaro</BGN>
-* <EGP>EGP - Libra Egípcia</EGP>
-* <GBP>GBP - Libra Esterlina</GBP>
-* <LBP>LBP - Libra Libanesa</LBP>
-* <SDG>SDG - Libra Sudanesa</SDG>
-* <SYP>SYP - Libra Síria</SYP>
-* <SZL>SZL - Lilangeni Suazilandês</SZL>
-* <LTC>LTC - Litecoin</LTC>
-* <LSL>LSL - Loti do Lesoto</LSL>
-* <AZN>AZN - Manat Azeri</AZN>
-* <BAM>BAM - Marco Conversível</BAM>
-* <MZN>MZN - Metical de Moçambique</MZN>
-* <MNT>MNT - Mongolian Tugrik</MNT>
-* <NGN>NGN - Naira Nigeriana</NGN>
-* <NGNI>NGNI - Naira Nigeriana</NGNI>
-* <NGNPARALLEL>NGNPARALLEL - Naira Nigeriana</NGNPARALLEL>
-* <TRY>TRY - Nova Lira Turca</TRY>
-* <ILS>ILS - Novo Shekel Israelense</ILS>
-* <MRO>MRO - Ouguiya Mauritana</MRO>
-* <MOP>MOP - Pataca de Macau</MOP>
-* <ARS>ARS - Peso Argentino</ARS>
-* <CLP>CLP - Peso Chileno</CLP>
-* <COP>COP - Peso Colombiano</COP>
-* <CUP>CUP - Peso Cubano</CUP>
-* <DOP>DOP - Peso Dominicano</DOP>
-* <PHP>PHP - Peso Filipino</PHP>
-* <MXN>MXN - Peso Mexicano</MXN>
-* <UYU>UYU - Peso Uruguaio</UYU>
-* <BWP>BWP - Pula de Botswana</BWP>
-* <GTQ>GTQ - Quetzal Guatemalteco</GTQ>
-* <ZAR>ZAR - Rand Sul-Africano</ZAR>
-* <BRL>BRL - Real Brasileiro</BRL>
-* <BRLT>BRLT - Real Brasileiro Turismo</BRLT>
-* <QAR>QAR - Rial Catarense</QAR>
-* <IRR>IRR - Rial Iraniano</IRR>
-* <OMR>OMR - Rial Omanense</OMR>
-* <KHR>KHR - Riel Cambojano</KHR>
-* <MYR>MYR - Ringgit Malaio</MYR>
-* <YER>YER - Riyal Iemenita</YER>
-* <SAR>SAR - Riyal Saudita</SAR>
-* <BYN>BYN - Rublo Bielorrusso</BYN>
-* <RUB>RUB - Rublo Russo</RUB>
-* <RUBTOM>RUBTOM - Rublo Russo</RUBTOM>
-* <RUBTOD>RUBTOD - Rublo Russo</RUBTOD>
-* <MVR>MVR - Rufiyaa Maldiva</MVR>
-* <IDR>IDR - Rupia Indonésia</IDR>
-* <INR>INR - Rúpia Indiana</INR>
-* <MUR>MUR - Rúpia Mauriciana</MUR>
-* <NPR>NPR - Rúpia Nepalesa</NPR>
-* <PKR>PKR - Rúpia Paquistanesa</PKR>
-* <LKR>LKR - Rúpia de Sri Lanka</LKR>
-* <SCR>SCR - Rúpias de Seicheles</SCR>
-* <KES>KES - Shilling Queniano</KES>
-* <SOS>SOS - Shilling Somaliano</SOS>
-* <TZS>TZS - Shilling Tanzaniano</TZS>
-* <UGX>UGX - Shilling Ugandês</UGX>
-* <PEN>PEN - Sol do Peru</PEN>
-* <KGS>KGS - Som Quirguistanês</KGS>
-* <UZS>UZS - Som Uzbequistanês</UZS>
-* <TJS>TJS - Somoni do Tajiquistão</TJS>
-* <TMT>TMT - TMT</TMT>
-* <BDT>BDT - Taka de Bangladesh</BDT>
-* <KZT>KZT - Tengue Cazaquistanês</KZT>
-* <VUV>VUV - Vatu de Vanuatu</VUV>
-* <KRW>KRW - Won Sul-Coreano</KRW>
-* <XAGG>XAGG - XPrata</XAGG>
-* <XRP>XRP - XRP</XRP>
-* <CNY>CNY - Yuan Chinês</CNY>
-* <CNH>CNH - Yuan chinês offshore</CNH>
-* <PLN>PLN - Zlóti Polonês</PLN>
+   * "AED": "United Arab Emirates Dirham",
+   * "AFN": "Afghan Afghani",
+   * "ALL": "Albanian Lek",
+   * "AMD": "Armenian Dram",
+   * "ANG": "Dutch Guilders",
+   * "AOA": "Angolan Kwanza",
+   * "ARS": "Argentine Peso",
+   * "AUD": "Australian Dollar",
+   * "AWG": "Aruban Florin",
+   * "AZN": "Azerbaijani Manat",
+   * "BAM": "Bosnia-Herzegovina Convertible Mark",
+   * "BBD": "Barbadian Dollar",
+   * "BDT": "Bangladeshi Taka",
+   * "BGN": "Bulgarian Lev",
+   * "BHD": "Bahraini Dinar",
+   * "BIF": "Burundian Franc",
+   * "BMD": "Bermudian Dollar",
+   * "BND": "Bruneian Dollar",
+   * "BOB": "Bolivian Boliviano",
+   * "BRL": "Brazilian Real",
+   * "BSD": "Bahamian Dollar",
+   * "BTN": "Bhutanese Ngultrum",
+   * "BWP": "Botswanan Pula",
+   * "BZD": "Belizean Dollar",
+   * "CAD": "Canadian Dollar",
+   * "CDF": "Congolese Franc",
+   * "CHF": "Swiss Franc",
+   * "CLF": "Chilean Unit of Account UF",
+   * "CLP": "Chilean Peso",
+   * "CNH": "Chinese Yuan Offshore",
+   * "CNY": "Chinese Yuan",
+   * "COP": "Colombian Peso",
+   * "CUP": "Cuban Peso",
+   * "CVE": "Cape Verdean Escudo",
+   * "CZK": "Czech Republic Koruna",
+   * "DJF": "Djiboutian Franc",
+   * "DKK": "Danish Krone",
+   * "DOP": "Dominican Peso",
+   * "DZD": "Algerian Dinar",
+   * "EGP": "Egyptian Pound",
+   * "ERN": "Eritrean Nakfa",
+   * "ETB": "Ethiopian Birr",
+   * "EUR": "Euro",
+   * "FJD": "Fijian Dollar",
+   * "FKP": "Falkland Islands Pound",
+   * "GBP": "British Pound Sterling",
+   * "GEL": "Georgian Lari",
+   * "GHS": "Ghanaian Cedi",
+   * "GIP": "Gibraltar Pound",
+   * "GMD": "Gambian Dalasi",
+   * "GNF": "Guinean Franc",
+   * "GTQ": "Guatemalan Quetzal",
+   * "GYD": "Guyanaese Dollar",
+   * "HKD": "Hong Kong Dollar",
+   * "HNL": "Honduran Lempira",
+   * "HRK": "Croatian Kuna",
+   * "HTG": "Haitian Gourde",
+   * "HUF": "Hungarian Forint",
+   * "IDR": "Indonesian Rupiah",
+   * "ILS": "Israeli New Sheqel",
+   * "INR": "Indian Rupee",
+   * "IQD": "Iraqi Dinar",
+   * "IRR": "Iranian Rial",
+   * "ISK": "Icelandic Krona",
+   * "JMD": "Jamaican Dollar",
+   * "JOD": "Jordanian Dinar",
+   * "JPY": "Japanese Yen",
+   * "KES": "Kenyan Shilling",
+   * "KGS": "Kyrgystani Som",
+   * "KHR": "Cambodian Riel",
+   * "KMF": "Comorian Franc",
+   * "KPW": "North Korean Won",
+   * "KRW": "South Korean Won",
+   * "KWD": "Kuwaiti Dinar",
+   * "KYD": "Caymanian Dollar",
+   * "KZT": "Kazakhstani Tenge",
+   * "LAK": "Laotian Kip",
+   * "LBP": "Lebanese Pound",
+   * "LKR": "Sri Lankan Rupee",
+   * "LRD": "Liberian Dollar",
+   * "LSL": "Basotho Maloti",
+   * "LYD": "Libyan Dinar",
+   * "MAD": "Moroccan Dirham",
+   * "MDL": "Moldovan Leu",
+   * "MGA": "Malagasy Ariary",
+   * "MKD": "Macedonian Denar",
+   * "MMK": "Myanma Kyat",
+   * "MNT": "Mongolian Tugrik",
+   * "MOP": "Macanese Pataca",
+   * "MRU": "Mauritanian Ouguiya",
+   * "MUR": "Mauritian Rupee",
+   * "MVR": "Maldivian Rufiyaa",
+   * "MWK": "Malawian Kwacha",
+   * "MXN": "Mexican Peso",
+   * "MYR": "Malaysian Ringgit",
+   * "MZN": "Mozambican Metical",
+   * "NAD": "Namibian Dollar",
+   * "NGN": "Nigerian Naira",
+   * "NOK": "Norwegian Krone",
+   * "NPR": "Nepalese Rupee",
+   * "NZD": "New Zealand Dollar",
+   * "OMR": "Omani Rial",
+   * "PAB": "Panamanian Balboa",
+   * "PEN": "Peruvian Nuevo Sol",
+   * "PGK": "Papua New Guinean Kina",
+   * "PHP": "Philippine Peso",
+   * "PKR": "Pakistani Rupee",
+   * "PLN": "Polish Zloty",
+   * "PYG": "Paraguayan Guarani",
+   * "QAR": "Qatari Rial",
+   * "RON": "Romanian Leu",
+   * "RSD": "Serbian Dinar",
+   * "RUB": "Russian Ruble",
+   * "RWF": "Rwandan Franc",
+   * "SAR": "Saudi Arabian Riyal",
+   * "SCR": "Seychellois Rupee",
+   * "SDG": "Sudanese Pound",
+   * "SEK": "Swedish Krona",
+   * "SGD": "Singapore Dollar",
+   * "SHP": "Saint Helena Pound",
+   * "SLL": "Sierra Leonean Leone",
+   * "SOS": "Somali Shilling",
+   * "SRD": "Surinamese Dollar",
+   * "SYP": "Syrian Pound",
+   * "SZL": "Swazi Emalangeni",
+   * "THB": "Thai Baht",
+   * "TJS": "Tajikistani Somoni",
+   * "TMT": "Turkmenistani Manat",
+   * "TND": "Tunisian Dinar",
+   * "TOP": "Tongan Pa'anga",
+   * "TRY": "Turkish Lira",
+   * "TTD": "Trinidad and Tobago Dollar",
+   * "TWD": "Taiwan New Dollar",
+   * "TZS": "Tanzanian Shilling",
+   * "UAH": "Ukrainian Hryvnia",
+   * "UGX": "Ugandan Shilling",
+   * "USD": "United States Dollar",
+   * "UYU": "Uruguayan Peso",
+   * "UZS": "Uzbekistan Som",
+   * "VND": "Vietnamese Dong",
+   * "VUV": "Ni-Vanuatu Vatu",
+   * "WST": "Samoan Tala",
+   * "XAF": "CFA Franc BEAC",
+   * "XCD": "East Caribbean Dollar",
+   * "XDR": "Special Drawing Rights",
+   * "XOF": "CFA Franc BCEAO",
+   * "XPF": "CFP Franc",
+   * "YER": "Yemeni Rial",
+   * "ZAR": "South African Rand",
+   * "ZMW": "Zambian Kwacha"
 
 
 # Combinações de cotações suportadas, são mais de 600 tipos diferentes :wrench:
